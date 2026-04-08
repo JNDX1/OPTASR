@@ -1,0 +1,7 @@
+# Python 依赖项
+# 本项目主要使用标准库，无需额外安装第三方包
+# 以下是可能需要的外部工具：
+# - SignalP 6.0
+# - ClustalW
+# - MEGA-CC
+# - ANCESCON
